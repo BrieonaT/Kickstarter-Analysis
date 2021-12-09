@@ -40,7 +40,7 @@ A conclusion you can make based on the data for Outcomes based on Goals is that 
  
 - What are some limitations of this dataset?
 
-There are a few limitations of the given data set. One limitation is the size of data. While the sample set is large, you can see in charts such as Outcomes based on Goals that there's less information for plays of higher goal ranges compared to smaller goal ranges.  *** edit?
+There are a few limitations of the given data set. One limitation is the size of data. While the sample set is large, you can see in charts such as Outcomes based on Goals that there's less information for plays of higher goal ranges compared to smaller goal ranges. 
  
  
 - What are some other possible tables and/or graphs that we could create? 

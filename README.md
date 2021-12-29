@@ -13,14 +13,14 @@ The purpose of the assignment is to familiarize ourselves with Excel and it's ra
 ### Analysis of Outcomes Based on Launch Date
 An analysis was done to determine which months of the year it was better to launch a Kickstarter on. Data was collected counting up the number of successful, failed, and canceled campaigns, and then plotted onto a line chart. The data shown in this research suggests the best time to launch a Kickstarter for a play would be in May. The data on the chart below shows that May had the highest number of successful play campaigns, with 111 successful campaigns launched during that time. The data presented would also suggest that December would be the worst month to launch a campaign for a play, with only 37 successful plays launched during that time and 35 failed plays. 
  
-![Outcomes Based on Launch Date](https://github.com/BrieonaT/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/BrieonaT/Kickstarter-Analysis/blob/main/Imgs/Theater_Outcomes_vs_Launch.png)
  
  
 ### Analysis of Outcomes Based on Goals
  
 There was also an analysis done to determine which goal amounts were most likely to reach their funding.  Data was collected on which amounts, from less than 1,000$ to over 50,000$ and in increments of 5,000$, between had the highest rate of success. This was done by charting both a solid number of campaigns along with putting those numbers into percentages. The data this showed suggests that overall, lower goals had a higher success rate. This is evident in the fact campaigns with goals less than 1,000 had a success rate of 75.81% over 186 campaigns, along with campaigns that had goals between 1,000$ and 4,999$ had a success rate of 72.66% over 534 campaigns. While the chart also shows that higher goals in campaigns can have a decent sucess rate, such as campaigns between the 35,000$ to 39,999$ and 40,000$ to 44,999$ goal ranges both having a success rate of 66.67%, you also need to account for the fact that their number of projects were respectfully 6 and 3. 
  
-![Outcomes Based on Goals chart](https://github.com/BrieonaT/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals chart](https://github.com/BrieonaT/Kickstarter-Analysis/blob/main/Imgs/Outcomes_vs_Goals.png)
  
 ### Challenges and Difficulties Encountered
 I faced a few different challenges during this project. The bulk of the challenges I faced were during the second deliverable. This included figuring out how to perform the COUNTIFS function. It took me a lot of trial and error to get it down, but in the end after working through it for a few hours, I fixed my errors and had it running smoothly. This included realizing that I was using data from the wrong column, the amount pledged instead of the goal, and hence why my line chart initially looked off. I usually took breaks when I had issues, then came back later and re-watched the videos and re-read the accompanying guides and figured out my mistakes.
